@@ -1,0 +1,2 @@
+echo
+this is simple echo task 1
